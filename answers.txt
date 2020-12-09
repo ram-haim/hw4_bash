@@ -1,0 +1,7 @@
+1. We can see that there are lots of links for articles thus we can surely believe that searching manually each link for the chosen words
+ will take a long time, approximately 2 hours or so.
+2. We came to the conclusions that this method is efficient when we would like to perform some operations such as searching or changing data 
+in a large database like a big program or project containing a lot of different files.
+3. In case we would want to repeat the action we can use the 'Watch' command with an interval of an hour.
+We can simply write a simple script with the command that will run automatically our script every hour.
+After running the script again we can use the 'uniq' command in order not to count articles in which we have already checked.
